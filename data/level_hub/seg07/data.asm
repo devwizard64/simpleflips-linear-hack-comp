@@ -1,0 +1,7 @@
+.include "area01/data.asm"
+.include "blanket/data.asm"
+.include "dorrie/data.asm"
+.include "mask/data.asm"
+.include "pipe/data.asm"
+.include "dialogue/data.asm"
+.include "objects/data.asm"

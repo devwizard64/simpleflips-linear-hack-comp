@@ -1,0 +1,5 @@
+texLevelTitle01n0000: .incbin "textures/0000.bin"
+texLevelTitle01n0001: .incbin "textures/0001.bin"
+texLevelTitle01n0002: .incbin "textures/0002.bin"
+texLevelTitle01n0003: .incbin "textures/0003.bin"
+texLevelTitle01n0004: .incbin "textures/0004.bin"

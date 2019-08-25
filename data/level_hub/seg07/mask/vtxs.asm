@@ -1,0 +1,5 @@
+vtxLevelHub01Mask0000:
+    vertex      0,      0,      0,      0,      0, 0x00, 0x00, 0x00, 0xC0
+    vertex      0,    240,      0,      0,      0, 0x00, 0x00, 0x00, 0xC0
+    vertex    320,    240,      0,      0,      0, 0x00, 0x00, 0x00, 0xC0
+    vertex    320,      0,      0,      0,      0, 0x00, 0x00, 0x00, 0xC0

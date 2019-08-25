@@ -1,0 +1,38 @@
+.orga 0x57B730
+    .incbin "sound.57B730.bin"
+.orga 0x57BC94
+    .incbin "sound.57BC94.bin"
+.orga 0x57BD44
+    .dw 0x00007200
+.orga 0x57BDC4
+    .dw 0x000074B0
+.orga 0x57BE44
+    .dw 0x000076F0
+.orga 0x57BEC4
+    .dw 0x00007D80
+.orga 0x57BF44
+    .dw 0x00008400
+.orga 0x57BFC4
+    .dw 0x00008560
+.orga 0x57C044
+    .dw 0x00009F40
+.orga 0x57C0D0
+    .incbin "sound.57C0D0.bin"
+.orga 0x593568
+    .incbin "sound.593568.bin"
+.orga 0x59E208
+    .dw 0xD2000000, 0x00000000
+.orga 0x5A4A18
+    .dw 0x00000000, 0x00000000
+.orga 0x5E53FC
+    .dw 0x00000000
+.orga 0x5F6F98
+    .dw 0x00000000, 0x00000000
+.orga 0x607E88
+    .dw 0x00000000, 0x00000000
+.orga 0x64D34C
+    .dw 0x10000000
+.orga 0x657E94
+    .dw 0x00000000, 0x00000000, 0x00000000
+.orga 0x677260
+    .incbin "sound.677260.bin"

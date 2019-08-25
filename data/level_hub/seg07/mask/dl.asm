@@ -1,0 +1,10 @@
+dlLevelHub01Mask0000:
+    .dd 0xE700000000000000 ; G_RDPPIPESYNC
+    .dd 0xB600000000020000 ; G_CLEARGEOMETRYMODE
+    .dd 0xB900031D005041C8 ; G_SETOTHERMODE_L (render mode)
+    .dd 0xFCFFFFFFFFFE793C ; G_SETCOMBINE
+    load_vtxs vtxLevelHub01Mask0000, 6
+    tri 0, 1, 2
+    tri 0, 2, 3
+dlLevelHub01Mask0001:
+    .dd 0xB800000000000000 ; G_ENDDL
